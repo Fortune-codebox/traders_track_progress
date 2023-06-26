@@ -1,0 +1,62 @@
+[
+  {
+    "email": "user0@example.com",
+    "password": "user0@123456",
+    "name": "user0",
+    "account_balance": 100
+  },
+  {
+    "email": "user1@example.com",
+    "password": "user1@123456",
+    "name": "user01",
+    "account_balance": 100
+  },
+  {
+    "email": "user2@example.com",
+    "password": "user2@123456",
+    "name": "user2",
+    "account_balance": 100
+  },
+  {
+    "email": "user3@example.com",
+    "password": "user3@123456",
+    "name": "user3",
+    "account_balance": 100
+  },
+  {
+    "email": "user4@example.com",
+    "password": "user4@123456",
+    "name": "user4",
+    "account_balance": 100
+  },
+  {
+    "email": "user5@example.com",
+    "password": "user5@123456",
+    "name": "user5",
+    "account_balance": 100
+  },
+  {
+    "email": "user6@example.com",
+    "password": "user6@123456",
+    "name": "user6",
+    "account_balance": 100
+  },
+  {
+    "email": "user7@example.com",
+    "password": "user7@123456",
+    "name": "user7",
+    "account_balance": 100
+  },
+  {
+    "email": "user8@example.com",
+    "password": "user8@123456",
+    "name": "user8",
+    "account_balance": 100
+  },
+  {
+    "email": "user9@example.com",
+    "password": "user9@123456",
+    "name": "user9",
+    "account_balance": 100
+  }
+]

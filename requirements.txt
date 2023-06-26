@@ -1,2 +1,6 @@
 Django>=3.2.4,<3.3
+pymongo==3.12.3
+djongo
+sqlparse>=0.2.2
+dnspython
 djangorestframework>=3.12.4,<3.13
